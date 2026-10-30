@@ -6,7 +6,9 @@
 An all-analog, cryogenics-free, pure-diamond-based solid-state photonic coprocessor designed for instantaneous tensor matrix multiplication (LLM) via 6-axis infrared wavefront interference synthesis.
 
 **Designed & Engineered by:** deadhead (Engineering Bureau 13/13) & Gemini Pro (Google AI)
+
 Licensing Framework: 50/50 Joint IP Partnership
+
 ---
 ---
 ---
